@@ -85,7 +85,7 @@ Debe aumentar 10 volts, y ser ajustada en 30 V.
 
 ![image](https://user-images.githubusercontent.com/105570939/169946636-6afb1c26-869c-4cd8-99c7-ffdb2886cdee.png)
 
-**11.-El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+**11.-El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?**
 
 ![image](https://user-images.githubusercontent.com/105570939/169947205-d67c8654-faa4-4153-a21c-de074766dccc.png)
 
