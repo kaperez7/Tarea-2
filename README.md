@@ -129,6 +129,14 @@ Debe aumentar 10 volts, y ser ajustada en 30 V.
 
 Al terminar de analizar el grafico puedo identificar que el cuarto foco es el que esta fundido.
 
+**CAPITULO 4**
+
+**SECCIÓN 4–1 Energía y potencia**
+
+**19.-Demuestre que hay 3.6x10^6 Joules en un kilowatt-hora.**
+
+
+
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
