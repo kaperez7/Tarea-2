@@ -281,7 +281,9 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 6. BIBLIOGRAFÍA
 
 Blanco, T. A. (19 de Febrero de 2021). BBVA Creative. Obtenido de BBVA Creative: https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
+
 Pardell, X. (09 de Diciembre de 2021). Pardell.es. Obtenido de Pardell.es: https://www.pardell.es/ley-ohm.html
+
 Planas, O. (13 de Septiembre de 2021). Energia solar. Obtenido de Energia solar: https://solar-energia.net/electricidad/leyes/ley-de-ohm
 
 RUBRICA
