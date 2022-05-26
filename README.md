@@ -31,7 +31,7 @@ Considerar la Taxonomía de Bloom
 
 Establece que la corriente es directamente proporcional al voltaje e inversamente proporcional a la resistencia.
 
-![image](https://user-images.githubusercontent.com/105570939/170438993-e512e63a-6008-4be7-9627-72e684f5653e.png)
+![image](https://user-images.githubusercontent.com/105570939/170445620-6e49f553-5f9b-435f-bffc-a16ada3fd1af.png)
 
 **La relación lineal de corriente y voltaje**
 
@@ -47,7 +47,7 @@ Como se ha visto, la corriente varía inversamente con la resistencia tal como l
 
 ![Concept Map (6)](https://user-images.githubusercontent.com/105570939/170438926-2df8d4c9-549d-40b6-8002-89d7b1e12608.jpg)
 
-![image](https://user-images.githubusercontent.com/105570939/170439875-fdf14d2c-ae43-4dbc-b0ee-0c35f807c83d.png)
+![image](https://user-images.githubusercontent.com/105570939/170438993-e512e63a-6008-4be7-9627-72e684f5653e.png)
 
 **CAPITULO 4**
 
@@ -55,7 +55,7 @@ Como se ha visto, la corriente varía inversamente con la resistencia tal como l
 
 Los conceptos de potencia y energía se confunden con mucha frecuencia. La potencia es el ritmo al que se usa o genera la energía y puede ser medida en cualquier instante de tiempo ya que siempre tendrá el mismo valor. Mientras que la energía es la capacidad de hacer funcionar las cosas y debe ser medida durante un cierto período (un segundo, una hora, un año…).
 
-![image](https://user-images.githubusercontent.com/105570939/170441512-13a042b5-d86e-4d4d-b449-ed186e37e967.png)
+![image](https://user-images.githubusercontent.com/105570939/170439875-fdf14d2c-ae43-4dbc-b0ee-0c35f807c83d.png)
 
 **La unidad de energía kilowatt-hora (kWh)**
 
@@ -65,7 +65,7 @@ El joule ha sido definido como una unidad de energía.Sin embargo, existe otra f
 
 La potencia eléctrica es un parámetro que indica la cantidad de energía eléctrica transferida de una fuente generadora a un elemento consumidor por unidad de tiempo.
 
-![image](https://user-images.githubusercontent.com/105570939/170444639-32f5740f-45d4-405b-af15-7dd795397e26.png)
+![image](https://user-images.githubusercontent.com/105570939/170441512-13a042b5-d86e-4d4d-b449-ed186e37e967.png)
 
 ![Concept Map (7)](https://user-images.githubusercontent.com/105570939/170442066-ccd1ce21-bdd2-407d-b92b-b7994cbfa000.jpg)
 
@@ -83,9 +83,9 @@ Las fuentes de potencia van desde baterías simples hasta circuitos electrónico
 
 **Eficiencia de una fuente de potencia**
 
-![image](https://user-images.githubusercontent.com/105570939/170444691-abfab37a-3387-4ccf-a503-6fe12edd2753.png)
+![image](https://user-images.githubusercontent.com/105570939/170444639-32f5740f-45d4-405b-af15-7dd795397e26.png)
 
-![image](https://user-images.githubusercontent.com/105570939/170444768-b093a9a2-a836-468f-bfa7-d375bbf47a40.png)
+![image](https://user-images.githubusercontent.com/105570939/170444691-abfab37a-3387-4ccf-a503-6fe12edd2753.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
