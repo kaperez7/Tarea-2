@@ -96,6 +96,7 @@ Las fuentes de potencia van desde baterías simples hasta circuitos electrónico
 
 **4.-Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,rojo, oro.**
 
+![image](https://user-images.githubusercontent.com/105570939/170469613-02e7f129-b9d2-4924-ae50-1770c9bba264.png)
 
 
 **5.-¿Cuál de los circuitos mostrados en la figuras tiene más corriente? ¿Cuál tiene menos corriente?**
