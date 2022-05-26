@@ -243,7 +243,7 @@ Se debe utilizar un resistor de 1 W.
 
 **33.-Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
 
-
+![image](https://user-images.githubusercontent.com/105570939/170472637-d70b3e85-375c-48c9-a02e-bb95dbf8d910.png)
 
 **34.-Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
 
