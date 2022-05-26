@@ -193,15 +193,15 @@ Al terminar de analizar el grafico puedo identificar que el cuarto foco es el qu
 
 ![image](https://user-images.githubusercontent.com/105570939/170395331-28d8bbfd-d96f-426d-8e80-bd12f4e4e116.png)
 
-**20.-¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+**20.-¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?**
 
 ![image](https://user-images.githubusercontent.com/105570939/170395920-5b7c30a7-80fb-4af5-8827-dbe70dabe626.png)
 
-**21.-Convierta las siguientes cantidades en kilowatts:
+**21.-Convierta las siguientes cantidades en kilowatts:**
 
 ![image](https://user-images.githubusercontent.com/105570939/170397225-7675a197-8a0d-470c-9158-9e1904a2759c.png)
 
-**22.-Convierta las siguientes cantidades en miliwatts:
+**22.-Convierta las siguientes cantidades en miliwatts:**
 
 ![image](https://user-images.githubusercontent.com/105570939/170398095-2f220e7c-a479-41bd-9e38-1b7c9b2baa02.png)
 
