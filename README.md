@@ -165,7 +165,7 @@ Si es una relacion lineal, ya que por definicion un cambio en voltaje produce un
 
 **17.-Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.**
 
-
+![image](https://user-images.githubusercontent.com/105570939/170471388-d36dea96-8320-4d9e-8a63-86470e7c1bb2.png)
 
 **SECCIÓN 3–5: Introducción a la localización de fallas**
 
