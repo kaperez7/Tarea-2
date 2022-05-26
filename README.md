@@ -115,7 +115,7 @@ Debe aumentar 10 volts, y ser ajustada en 30 V.
 
 **7.-¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.**
 
-
+Si es una relacion lineal, ya que por definicion un cambio en voltaje produce un cambio linealmente proporcional de la corriente.
 
 **SECCIÓN 3–2: Cálculo de la corriente.**
 
