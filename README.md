@@ -23,15 +23,69 @@ Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+**CAPITULO 3**
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+**La relacion de corriente, voltaje y resistencia**
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+**Ley de ohm**
+
+Establece que la corriente es directamente proporcional al voltaje e inversamente proporcional a la resistencia.
+
+![image](https://user-images.githubusercontent.com/105570939/170438993-e512e63a-6008-4be7-9627-72e684f5653e.png)
+
+**La relación lineal de corriente y voltaje**
+
+La corriente y el voltaje son linealmente proporcionales. Lineal significa que si una de las cantidades se incrementa o disminuye en cierto porcentaje, la otra se incrementará o disminuirá en el mismo porcentaje, suponiendo que el valor de la resistencia es constante.
+
+**La relación inversa de corriente y resistencia**
+
+Como se ha visto, la corriente varía inversamente con la resistencia tal como lo expresa la ley de Ohm. Cuando la resistencia se reduce, la corriente se incrementa; cuando la resistencia se incrementa, la corriente se reduce.
+
+![Concept Map (5)](https://user-images.githubusercontent.com/105570939/170436326-d7155573-1423-4124-8976-233dd0ae8f05.jpg)
+
+**Introducción a la localización de fallas**
+
+![Concept Map (6)](https://user-images.githubusercontent.com/105570939/170438926-2df8d4c9-549d-40b6-8002-89d7b1e12608.jpg)
+
+![image](https://user-images.githubusercontent.com/105570939/170439875-fdf14d2c-ae43-4dbc-b0ee-0c35f807c83d.png)
+
+**CAPITULO 4**
+
+**Energía y Potencia**
+
+Los conceptos de potencia y energía se confunden con mucha frecuencia. La potencia es el ritmo al que se usa o genera la energía y puede ser medida en cualquier instante de tiempo ya que siempre tendrá el mismo valor. Mientras que la energía es la capacidad de hacer funcionar las cosas y debe ser medida durante un cierto período (un segundo, una hora, un año…).
+
+![image](https://user-images.githubusercontent.com/105570939/170441512-13a042b5-d86e-4d4d-b449-ed186e37e967.png)
+
+**La unidad de energía kilowatt-hora (kWh)**
+
+El joule ha sido definido como una unidad de energía.Sin embargo, existe otra forma de expresar la energía. Dado que la potencia se expresa en watts y el tiempo en segundos, se pueden utilizar unidades de energía llamadas watt-segundo (Ws), watt-hora (Wh), y kilowatt hora (kWh).
+
+**Potencia en un circuito eléctrico**
+
+La potencia eléctrica es un parámetro que indica la cantidad de energía eléctrica transferida de una fuente generadora a un elemento consumidor por unidad de tiempo.
+
+![image](https://user-images.githubusercontent.com/105570939/170444639-32f5740f-45d4-405b-af15-7dd795397e26.png)
+
+![Concept Map (7)](https://user-images.githubusercontent.com/105570939/170442066-ccd1ce21-bdd2-407d-b92b-b7994cbfa000.jpg)
+
+**Potencia Nominal en Resistores**
+
+Es la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo.
+
+![Concept Map (8)](https://user-images.githubusercontent.com/105570939/170443714-79e462f1-89d4-452a-b122-d28fc0c1c8be.jpg)
+
+**Fuentes de Potencia**
+
+La fuente de potencia produce un voltaje a través de sus dos terminales de salida y suministra corriente a través de la carga.
+
+Las fuentes de potencia van desde baterías simples hasta circuitos electrónicos regulados donde un voltaje de salida exacto es automáticamente mantenido.
+
+**Eficiencia de una fuente de potencia**
+
+![image](https://user-images.githubusercontent.com/105570939/170444691-abfab37a-3387-4ccf-a503-6fe12edd2753.png)
+
+![image](https://user-images.githubusercontent.com/105570939/170444768-b093a9a2-a836-468f-bfa7-d375bbf47a40.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
