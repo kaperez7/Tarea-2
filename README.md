@@ -161,7 +161,9 @@ Si es una relacion lineal, ya que por definicion un cambio en voltaje produce un
 
 **16.-Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.**
 
+![image](https://user-images.githubusercontent.com/105570939/170474548-4a9f7057-9974-431a-924d-9d8605797d97.png)
 
+Como se tiene el voltaje, con el amperimetro se lo pone en seri y se mide la corriente con estos dos valores se calcula la resistencia aplicando la ley de Ohm.
 
 **17.-Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15.**
 
