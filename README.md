@@ -3,23 +3,12 @@
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
+Analizar la ley de Ohm, potencia y energía, mediante la lectura de paginas web y el libro electrónico de principios de circuitos electrios de Floyd,para comprender su implementacion en la resolucion de ejercicios.
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+* Definir la ley de Ohm, potencia y energia.
+* Aplicar las formulas en la resolucion de ejercicios.
+* conocer los diferentes despejes de las formulas.
+* Aprender a detectar a localizar fallas en un circuito.
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -267,16 +256,16 @@ Se debe utilizar un resistor de 1 W.
 
 ![image](https://user-images.githubusercontent.com/105570939/170427747-f1bd5333-e999-4134-a219-27fc1058cb5e.png)
 
-
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://youtu.be/ff8Vd844wFY
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* Se logra definir lo que es la ley de Ohm, energia y potencia y se concluye que son conceptos que van de la mano con su formula a demas de que si se logra comprender la definicion, nos puede ayudar a resolver problemas mediante el analisis sin la necesidad de realizar operaciones matemáticas.
+* Se nota que los ejercicios que se encuentren sobre estos temas son simples, pues solo requieren de la aplicacion de las formulas dadas. Pero debes observar que el enunciado te den las variables necesarias para operar.
+* Sale a relucir que una formula sirve para diferentes casos, esto se debe a los diversos despejes que se pueden hacer con las formulas, los cuales debemos poder encontara con precision ya que un solo error y las formulas resultantes no servirian.
+* Tras la investigacion se conoce metodos o pasos a seguir para detectar fallas en un circuito, este tema me parecio de los mas importantes pues te enseña a identificar problemas en los circuitos a traves de mediciones para que una vez identificados puedas solucionarlos.
 
 6. BIBLIOGRAFÍA
 
