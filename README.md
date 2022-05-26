@@ -35,6 +35,8 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+**CAPITULO 3**
+
 **SECCIÓN 3-1: La relación de corriente, voltaje y resistencia.**
 
 **1.-Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.**
@@ -135,6 +137,81 @@ Al terminar de analizar el grafico puedo identificar que el cuarto foco es el qu
 
 **19.-Demuestre que hay 3.6x10^6 Joules en un kilowatt-hora.**
 
+![image](https://user-images.githubusercontent.com/105570939/170395331-28d8bbfd-d96f-426d-8e80-bd12f4e4e116.png)
+
+**20.-¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![image](https://user-images.githubusercontent.com/105570939/170395920-5b7c30a7-80fb-4af5-8827-dbe70dabe626.png)
+
+**21.-Convierta las siguientes cantidades en kilowatts:
+
+![image](https://user-images.githubusercontent.com/105570939/170397225-7675a197-8a0d-470c-9158-9e1904a2759c.png)
+
+**22.-Convierta las siguientes cantidades en miliwatts:
+
+![image](https://user-images.githubusercontent.com/105570939/170398095-2f220e7c-a479-41bd-9e38-1b7c9b2baa02.png)
+
+**23.-Convierta las siguientes cantidades en watts:**
+
+![image](https://user-images.githubusercontent.com/105570939/170399325-aa3a6b49-e384-4135-810e-00414495e0c1.png)
+
+**24.-Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?**
+
+![image](https://user-images.githubusercontent.com/105570939/170400583-919f48d3-3476-4cde-b1f0-511cc479b702.png)
+
+**25.-Convierta 5*10^6 watts-minutos en KWh.**
+
+![image](https://user-images.githubusercontent.com/105570939/170401153-9320e62d-e2e0-4b0f-b8c2-fbbb07bc53b8.png)
+
+**26.-¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohmios para consumir 25 J?**
+
+![image](https://user-images.githubusercontent.com/105570939/170402567-d27f6bc2-6779-41cc-bce1-d59b33852acd.png)
+
+**27.-Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?**
+
+![image](https://user-images.githubusercontent.com/105570939/170415495-eb0b26d8-8aad-4fde-ba1d-0c5f5445180b.png)
+
+**28.-¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 K ohmios?**
+
+![image](https://user-images.githubusercontent.com/105570939/170416100-95afb141-cade-475b-9a1f-c2bfc90b6f6d.png)
+
+**29.-Si entre los extremos de un resistor de 680 ohmios existen 60 V, ¿cuál es la potencia?**
+
+![image](https://user-images.githubusercontent.com/105570939/170416531-7124306b-ad40-4454-bd5d-3df987aaac6f.png)
+
+**30.-Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.**
+
+![image](https://user-images.githubusercontent.com/105570939/170417343-2f47969a-0ba6-42b0-80eb-4ee20a0bf602.png)
+
+**SECCIÓN 4–3: Clasificaciones de potencia en resistores.**
+
+**31.-Un resistor de 6.8 k ohmios se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.**
+
+![image](https://user-images.githubusercontent.com/105570939/170422173-74f46e7a-4c79-45aa-b64e-3cad79b3f486.png)
+
+Se debe utilizar un resistor de 1 W.
+
+**SECCIÓN 4–4: Conversión de energía y caída de voltaje en una resistencia.**
+
+**32.-En cada circuito de la figura, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+![image](https://user-images.githubusercontent.com/105570939/170424676-78de750c-1c56-49f4-b9ed-4f4dde9e8622.png)
+
+**33.-Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
+
+
+
+**34.-Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
+
+![image](https://user-images.githubusercontent.com/105570939/170426586-d1c26877-bc4a-4a2b-b5fe-38c45a881f64.png)
+
+**35.-Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?**
+
+![image](https://user-images.githubusercontent.com/105570939/170427005-8f6f3ce1-e44a-465e-85dd-44c29107a8c8.png)
+
+**36.-Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
+
+![image](https://user-images.githubusercontent.com/105570939/170427747-f1bd5333-e999-4134-a219-27fc1058cb5e.png)
 
 
 4. VIDEO
